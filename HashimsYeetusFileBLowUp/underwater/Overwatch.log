@@ -1,0 +1,13 @@
+[8632] [ERR] [bnl] [External(0)] [External()] [2020-07-16T21:46:31.380Z]: PathOps: [20200716T17:46:31] {1478} ERR: .. is the leading path component: /../.build.info
+[8632] [ERR] [bnl] [External(0)] [External()] [2020-07-16T21:46:31.380Z]: PathOps: [20200716T17:46:31] {1478} ERR: path normalization failed: /../.build.info
+[8632] [ERR] [bnl] [External(0)] [External()] [2020-07-16T22:02:04.154Z]: BNL_Voice: [20200716T18:02:04] {1478} ERR: underlying SDK response error | type: 'resp_session_set_participant_mute_for_me' code: 20900 (Conference server command error.)
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:02:04.154Z]: #= VoiceClient: ERROR:Failed to set member 3449315602 field MEMBER_FIELD_IS_MUTED_ME with error 2(4)
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:02:10.101Z]: #= VoiceClient: ERROR:+ Channel 1414737137 not found for member 3405301236 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:02:10.101Z]: #= VoiceClient: ERROR:+ Channel 1414737137 not found for member 764693961 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:02:10.101Z]: #= VoiceClient: ERROR:+ Channel 1414737137 not found for member 3449315602 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:02:10.101Z]: #= VoiceClient: ERROR:+ Channel 1414737137 not found for member 1757091781 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:28:52.101Z]: #= VoiceClient: ERROR:+ Channel 1333180948 not found for member 764693961 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:28:52.101Z]: #= VoiceClient: ERROR:+ Channel 1333180948 not found for member 3953179523 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:28:52.101Z]: #= VoiceClient: ERROR:+ Channel 1333180948 not found for member 37534673 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:28:52.101Z]: #= VoiceClient: ERROR:+ Channel 1333180948 not found for member 134038744 request MEMBER_MODIFY
+[8632] [ERR] [Game] [External(0)] [External()] [2020-07-16T22:28:52.101Z]: #= VoiceClient: ERROR:+ Channel 1333180948 not found for member 1757091781 request MEMBER_MODIFY
